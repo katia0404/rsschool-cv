@@ -12,7 +12,6 @@ _____________
 > GitHub:kate015
 
 --------
-
 ##About me ##
 
 I'm studying to be an analytical biologist.Since entering the university, I have been thinking about taking up programming.At first I tried to start from the backend and studied java, taught SQL.After trying the interface later, I realized that I wanted to develop in this area. I am currently taking rs-school courses and I want to continue to develop in this direction
