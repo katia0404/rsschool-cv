@@ -2,7 +2,7 @@
 ![Изображение](USXnVd_m4AA.jpg"Логотип Markdown")
 ## <u>contact</u> ##
 - [Github](https://github.com/katia0404)
-
+- [rs.school](https://app.rs.school/course/schedule?course=js-fe-2023Q1)
 - [Linkedin](https://www.linkedin.com/in/екатерина-ефремова-a92b49241/)
 ## <u>about me</u> ##
 my goal is to learn how to make websites with good accessibility and design
