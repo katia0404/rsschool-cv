@@ -10,6 +10,6 @@ my strengths are determination sociability and confidence
 now I am studying at a university and am a member of the student union where I work in the SMM
 I work with an illustrator, photoshop, and posts for social networks
 ## <u>education</u> ##
-BSU
+BSU,biologist
 ## <u>Еnglish level</u> ##
 А2
